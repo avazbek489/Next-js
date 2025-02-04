@@ -1,3 +1,12 @@
 .content-card {
     background-color: #0B1D26;
 }
+
+.headerHero {
+    background-image: url("/images/hero-img.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 1200px;
+    overflow-x: hidden;
+  }
+  
